@@ -1,0 +1,21 @@
+body {
+    background-color: darkslateblue;
+    color: azure;
+  }
+  
+  table, th, td {
+    border: 2px solid black;
+    margin: auto;
+    border-color: blueviolet;
+  }
+  
+  h1 {
+    color: palevioletred;
+    text-align: center;
+    border: 2px solid black;
+    border-color: blueviolet;
+    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000;
+  }
+  .tags {
+  text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 30px #39ff14, 0 0 40px #39ff14;
+  }
